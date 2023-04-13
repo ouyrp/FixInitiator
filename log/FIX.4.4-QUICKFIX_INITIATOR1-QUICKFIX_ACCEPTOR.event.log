@@ -1,0 +1,11 @@
+20230413-08:47:50: Session FIX.4.4:QUICKFIX_INITIATOR1->QUICKFIX_ACCEPTOR schedule is daily, 00:00:00-UTC - 23:00:00-UTC
+20230413-08:47:50: Created session: FIX.4.4:QUICKFIX_INITIATOR1->QUICKFIX_ACCEPTOR
+20230413-08:47:51: Configured socket addresses for session: [/192.168.211.25:10003]
+20230413-08:47:51: java.net.ConnectException during connection to /192.168.211.25:10003: java.net.ConnectException: Connection refused (Next retry in 10000 milliseconds)
+20230413-08:48:01: java.net.ConnectException during connection to /192.168.211.25:10003: java.net.ConnectException: Connection refused (Next retry in 10000 milliseconds)
+20230413-08:48:11: java.net.ConnectException during connection to /192.168.211.25:10003: java.net.ConnectException: Connection refused (Next retry in 10000 milliseconds)
+20230413-08:48:21: java.net.ConnectException during connection to /192.168.211.25:10003: java.net.ConnectException: Connection refused (Next retry in 10000 milliseconds)
+20230413-08:48:31: MINA session created: local=/192.168.211.25:60074, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/192.168.211.25:10003
+20230413-08:48:32: Initiated logon request
+20230413-08:48:32: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20230413-08:48:32: Received logon
